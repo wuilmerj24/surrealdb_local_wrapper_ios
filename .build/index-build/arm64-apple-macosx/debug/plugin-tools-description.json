@@ -1,0 +1,605 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.xctest/Contents/MacOS/surrealdb_local_wrapper_iosPackageTests",
+      "packagePath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios",
+      "productName" : "surrealdb_local_wrapper_iosPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.surrealdb_local_wrapper_ios-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/sources",
+      "importPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper.xcframework/ios-arm64_x86_64-simulator/Headers/surrealdb_local_wrapper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper_ios.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "surrealdb_local_wrapper_ios",
+      "moduleOutputPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_ios.swiftmodule",
+      "objects" : [
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper.swift.o",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper_ios.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/include/surrealdb_local_wrapper_ios-Swift.h",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "surrealdb_local_wrapper_ios"
+      ],
+      "outputFileMapPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_ios.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper.xcframework/ios-arm64_x86_64-simulator/Headers/surrealdb_local_wrapper.swift",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper_ios.swift"
+      ],
+      "tempsPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.surrealdb_local_wrapper_iosPackageTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/sources",
+      "importPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_iosTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "surrealdb_local_wrapper_iosPackageTests",
+      "moduleOutputPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_iosPackageTests.swiftmodule",
+      "objects" : [
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/include/surrealdb_local_wrapper_iosPackageTests-Swift.h",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "surrealdb_local_wrapper_ios"
+      ],
+      "outputFileMapPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_iosPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.surrealdb_local_wrapper_iosTests-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build/sources",
+      "importPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Tests/surrealdb_local_wrapper_iosTests/surrealdb_local_wrapper_iosTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_ios.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "surrealdb_local_wrapper_iosTests",
+      "moduleOutputPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_iosTests.swiftmodule",
+      "objects" : [
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build/surrealdb_local_wrapper_iosTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "6",
+        "-Xfrontend",
+        "-experimental-lazy-typecheck",
+        "-Xfrontend",
+        "-experimental-skip-all-function-bodies",
+        "-Xfrontend",
+        "-experimental-allow-module-with-compiler-errors",
+        "-Xfrontend",
+        "-empty-abi-descriptor",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "surrealdb_local_wrapper_ios"
+      ],
+      "outputFileMapPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules/surrealdb_local_wrapper_iosTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : true,
+      "sources" : [
+        "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Tests/surrealdb_local_wrapper_iosTests/surrealdb_local_wrapper_iosTests.swift"
+      ],
+      "tempsPath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "surrealdb_local_wrapper_ios" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "surrealdb_local_wrapper_ios",
+      "-package-name",
+      "surrealdb_local_wrapper_ios",
+      "-c",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper.xcframework/ios-arm64_x86_64-simulator/Headers/surrealdb_local_wrapper.swift",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper_ios.swift",
+      "-I",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/include/surrealdb_local_wrapper_ios-Swift.h",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "surrealdb_local_wrapper_ios",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "surrealdb_local_wrapper_iosPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "surrealdb_local_wrapper_iosPackageTests",
+      "-package-name",
+      "surrealdb_local_wrapper_ios",
+      "-c",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.derived/runner.swift",
+      "-I",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/include/surrealdb_local_wrapper_iosPackageTests-Swift.h",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "surrealdb_local_wrapper_ios",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "surrealdb_local_wrapper_iosTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "surrealdb_local_wrapper_iosTests",
+      "-package-name",
+      "surrealdb_local_wrapper_ios",
+      "-c",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Tests/surrealdb_local_wrapper_iosTests/surrealdb_local_wrapper_iosTests.swift",
+      "-I",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "6",
+      "-Xfrontend",
+      "-experimental-lazy-typecheck",
+      "-Xfrontend",
+      "-experimental-skip-all-function-bodies",
+      "-Xfrontend",
+      "-experimental-allow-module-with-compiler-errors",
+      "-Xfrontend",
+      "-empty-abi-descriptor",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "surrealdb_local_wrapper_ios",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "surrealdb_local_wrapper_ios" : [
+
+    ],
+    "surrealdb_local_wrapper_iosPackageTests" : [
+      "surrealdb_local_wrapper_iosTests",
+      "surrealdb_local_wrapper_ios"
+    ],
+    "surrealdb_local_wrapper_iosTests" : [
+      "surrealdb_local_wrapper_ios"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper.xcframework/ios-arm64_x86_64-simulator/Headers/surrealdb_local_wrapper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper_ios.swift"
+        }
+      ],
+      "outputFilePath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/sources"
+    },
+    "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosPackageTests.build/sources"
+    },
+    "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Tests/surrealdb_local_wrapper_iosTests/surrealdb_local_wrapper_iosTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_iosTests.build/sources"
+    },
+    "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

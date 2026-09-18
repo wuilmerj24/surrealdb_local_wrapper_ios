@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/primary.swiftdeps"
+  },
+  "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper.xcframework/ios-arm64_x86_64-simulator/Headers/surrealdb_local_wrapper.swift": {
+    "dependencies": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper.d",
+    "object": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper.swift.o",
+    "swiftmodule": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper~partial.swiftmodule",
+    "swift-dependencies": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper.swiftdeps",
+    "diagnostics": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper.dia"
+  },
+  "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/Sources/surrealdb_local_wrapper_ios/surrealdb_local_wrapper_ios.swift": {
+    "dependencies": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper_ios.d",
+    "object": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper_ios.swift.o",
+    "swiftmodule": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper_ios~partial.swiftmodule",
+    "swift-dependencies": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper_ios.swiftdeps",
+    "diagnostics": "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/surrealdb_local_wrapper_ios.dia"
+  }
+}
