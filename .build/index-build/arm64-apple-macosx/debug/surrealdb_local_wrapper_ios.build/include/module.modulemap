@@ -1,3 +1,0 @@
-module surrealdb_local_wrapper_ios {
-    header "/Volumes/DiskExt/Users/mariacastillo/proyectos/surrealdb_local_wrapper_ios/.build/index-build/arm64-apple-macosx/debug/surrealdb_local_wrapper_ios.build/include/surrealdb_local_wrapper_ios-Swift.h"
-}
