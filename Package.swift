@@ -8,14 +8,12 @@ let package = Package(
     platforms: [
         .iOS(.v17)
     ],
-
     products: [
         .library(
             name: "surrealdb_local_wrapper_ios",
             targets: ["surrealdb_local_wrapper_ios"]
         )
     ],
-
     targets: [
         .binaryTarget(
             name: "surrealdb_local_wrapper_ios",
