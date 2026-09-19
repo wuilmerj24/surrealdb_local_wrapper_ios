@@ -18,7 +18,7 @@ let package = Package(
         .binaryTarget(
             name: "surrealdb_local_wrapper_ios",
             url: "https://github.com/wuilmerj24/surrealdb_local_wrapper_ios/releases/download/1.0.1/surrealdb_local_wrapper.xcframework.zip",
-            checksum: "61b99672e2c11d94707b33fa6e3e621dcbdccd10e98bf9570b2e0e79075e10b9"
+            checksum: "0a01eb0049bf752f4cb6ebbea325a820d07375d924434bc909148c79bfc7cc5b"
         )
     ]
 )
